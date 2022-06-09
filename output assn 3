@@ -1,0 +1,53 @@
+Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+================== RESTART: C:\Users\laksh\Downloads\Ques1.py ==================
+enter number= 3
+011enter num1= 2
+enter num2= 2
+enter operator= 5
+35
+Enter Value of n:5
+10.0
+Enter value of r:3
+113.04
+Eter value of a:5
+Enter value of b:6
+0.6896461181552341
+Eter value of y2:2
+Enter value of y1:3
+Eter value of x1:4
+Enter value of x2:6
+0.5
+0
+1
+2
+3
+4
+
+
+3
+4
+5
+6
+7
+8
+9
+
+
+4
+7
+10
+
+
+15
+13
+11
+9
+7
+
+
+number of H atoms= 2
+number of C atoms= 6
+number of O atoms= 8
+202.07528
