@@ -1,0 +1,29 @@
+Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+=============== RESTART: C:/Users/laksh/Downloads/assignment 4.py ==============
+Enter total marks= 90
+A
+Year= 2004
+it is a Leap year
+Question 1:4X3=12
+Right!
+Question 2:1X3=3
+Right!
+Question 3:7X2=15
+Wrong.The right answer is 14
+Question 4:9X5=45
+Right!
+Question 5:7X7=69
+Wrong.The right answer is 49
+Question 6:10X1=10
+Right!
+Question 7:1X8=8
+Right!
+Question 8:3X4=12
+Right!
+Question 9:9X9=81
+Right!
+Question 10:10X10=100
+Right!
+177 candies are in the bowl!
