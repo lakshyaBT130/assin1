@@ -70,19 +70,12 @@ for n in b:
 
 
 #q5
-from ctypes.wintypes import HACCEL
-
-
-H = 1.00794
-C = 12.01070
-O = 15.99940
-
-
-def MolWeight(a, b, c):
-    print(a*H+b*C+c*O)
-
-
-int1 = float(input("number of H atoms= "))
-int2 = float(input("number of C atoms= "))
-int3 = float(input("number of O atoms= "))
-MolWeight(int1, int2, int3)
+print('\nAns5')
+H = int(input("enter no of hydrogen atoms :"))
+C = int(input("enter no of carbon atoms:"))
+O = int(input("enter no of oxygen atoms:"))
+atom_weigh_of_H = 1.00794         #atomic weight of hydrogen
+atom_weigh_of_C = 12.0107         #atomic weight of carbon
+atom_weigh_of_O = 15.9994         #atomic weight of oxygen
+molecular_weigh = (H*atom_weigh_of_H + C*atom_weigh_of_C + O*atom_weigh_of_O)
+print('the molecular weight of molecule:',molecular_weigh)
