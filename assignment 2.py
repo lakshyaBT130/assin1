@@ -5,7 +5,7 @@ length=len(st)
 rev=st[::-1]
 sl=st[10:26]
 idx=st.index("a")
-white_spaces=st.strip()
+white_spaces=st.replace(" ","")
 print(st)
 print("Length of the string",length)
 print(rev)
